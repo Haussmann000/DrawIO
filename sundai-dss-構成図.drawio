@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T08:52:22.717Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="d9DvRiHvDxg61cRaHgl8" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-21T09:09:57.935Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="GenKGOQ0b3na_AK-1lUi" version="16.0.0" type="github">
   <diagram id="x67M1v3g5gRZpHPrqdF0" name="Page-1">
     <mxGraphModel dx="351" dy="641" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -667,7 +667,7 @@
           <mxGeometry x="2552" y="612" width="132.58" height="30" as="geometry" />
         </mxCell>
         <mxCell id="62W1PNBGQ614YCXMbs88-302" value="Amazon RDS" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.rds;" parent="1" vertex="1">
-          <mxGeometry x="2797.5" y="297.95" width="50" height="67" as="geometry" />
+          <mxGeometry x="2780.99" y="294" width="50" height="67" as="geometry" />
         </mxCell>
         <mxCell id="62W1PNBGQ614YCXMbs88-303" value="&lt;span style=&quot;color: rgb(35 , 47 , 62) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Trend Micro&lt;br&gt;Cloud One&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="2840.99" y="130.5" width="80" height="30" as="geometry" />
@@ -679,7 +679,7 @@
           <mxGeometry x="2184.5" y="961" width="92.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="62W1PNBGQ614YCXMbs88-306" value="Internet&#xa;gateway" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.internet_gateway;" parent="1" vertex="1">
-          <mxGeometry x="2296.5" y="466" width="60" height="60" as="geometry" />
+          <mxGeometry x="2281" y="465.99" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="62W1PNBGQ614YCXMbs88-307" value="全てのアクセスを許可" style="text;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="2337" y="744.9000000000001" width="127" height="30" as="geometry" />
@@ -754,7 +754,7 @@
           <mxGeometry x="2585" y="445.76" width="166" height="106.24" as="geometry" />
         </mxCell>
         <mxCell id="62W1PNBGQ614YCXMbs88-336" value="Amazon RDS" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.rds;" parent="1" vertex="1">
-          <mxGeometry x="2797.5000000000005" y="510.9999999999999" width="52" height="67.99" as="geometry" />
+          <mxGeometry x="2787.0000000000005" y="510.9999999999999" width="52" height="67.99" as="geometry" />
         </mxCell>
         <mxCell id="UCyW2WZ6Hty7FkNFaJjq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UCyW2WZ6Hty7FkNFaJjq-2" target="62W1PNBGQ614YCXMbs88-302" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -773,7 +773,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UCyW2WZ6Hty7FkNFaJjq-2" value="Network Load Balancer" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.network_load_balancer;" parent="1" vertex="1">
-          <mxGeometry x="2829" y="404.13" width="40" height="70" as="geometry" />
+          <mxGeometry x="2832.99" y="404.75" width="40" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QWBR-H8_dsKV8hsSl0TS-1" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;" parent="1" vertex="1">
           <mxGeometry x="1971" y="410" width="159.5" height="67.51" as="geometry" />
@@ -788,10 +788,10 @@
           <mxGeometry x="1411" y="240" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oUUt5ZOtR4OmDjNinmJj-5" value="マルチAZ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2853" y="348" width="61" height="18" as="geometry" />
+          <mxGeometry x="2930.5" y="346.95" width="61" height="18" as="geometry" />
         </mxCell>
         <mxCell id="oUUt5ZOtR4OmDjNinmJj-7" value="マルチAZ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2854" y="561.05" width="61" height="18" as="geometry" />
+          <mxGeometry x="2935" y="560" width="61" height="18" as="geometry" />
         </mxCell>
         <mxCell id="oUUt5ZOtR4OmDjNinmJj-10" value="LyfeKeeper：新規構成の構築費が150万程度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2985" y="702" width="247" height="18" as="geometry" />
@@ -830,7 +830,7 @@
           <mxGeometry x="2531" y="237.5" width="117.16" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oUUt5ZOtR4OmDjNinmJj-18" value="Internet&#xa;gateway" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.internet_gateway;" vertex="1" parent="1">
-          <mxGeometry x="2285.5" y="317.98" width="60" height="60" as="geometry" />
+          <mxGeometry x="2281" y="320" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oUUt5ZOtR4OmDjNinmJj-19" value="開発環境もマルチAZでそろえる" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3018" y="770.05" width="181" height="18" as="geometry" />
